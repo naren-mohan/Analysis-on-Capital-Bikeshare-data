@@ -10,4 +10,4 @@ https://public.tableau.com/app/profile/naren.mohan/viz/AnalysisonCapitalBikeshar
 The design of this dashboard was inspired from the following dashboard created by Zainab Ayodimeji - 
 https://public.tableau.com/app/profile/zainab2225/viz/SunnyStreetVizForSocialGood_16318182787050/SUNNYSTREETVFSG
 
-This dashboard was created as part of the IE6600 Computation & Visualization course under Professor Mohammadi Ramin in Northeastern University.
+This dashboard was created by myself and my teammate Ashwin Kadam as part of the IE6600 Computation & Visualization course under Professor Mohammadi Ramin in Northeastern University.
