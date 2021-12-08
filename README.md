@@ -2,7 +2,7 @@
 
 Capital Bikeshare is metro DC's bikesharing system, with more than 5,000 bikes available at more than 600 stations. The bikes can be unlocked from any station and returned to any station in the system, making them ideal for one-way trips. Capital Bikeshare provides two types of bikes, the classic bike and the ebike which comes with pedal assist technology for smooth and breezy ride. Bikes are available for use 24 hours a day, 7 days a week, 365 days a year. 
 
-This dashboard intends to cover the story of the rise of Capital Bikeshare in the bikeshare market at Washington D.C. and the impact of the rise in the number of  competitors and COVID-19. 
+This dashboard intends to cover the story of the rise of Capital Bikeshare in the bikeshare market at Washington D.C. and the impact of the rise in the number of  competitors and COVID-19 using Tableau. 
 
 The following link is the dashboard that was created to cover this story - 
 https://public.tableau.com/app/profile/naren.mohan/viz/AnalysisonCapitalBikeshareData/CapitalBikeshare
