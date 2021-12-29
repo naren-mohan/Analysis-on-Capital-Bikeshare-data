@@ -7,7 +7,7 @@ This dashboard intends to cover the story of the rise of Capital Bikeshare in th
 The following link is the dashboard that was created to cover this story - 
 https://public.tableau.com/app/profile/naren.mohan/viz/AnalysisonCapitalBikeshareData/CapitalBikeshare
 
-[![Click to view the dashboard](Screenshot-Tableau.png)](https://public.tableau.com/app/profile/naren.mohan/viz/AnalysisonCapitalBikeshareData/CapitalBikeshare)
+[![Click to view the dashboard](Capital Bikeshare.png)](https://public.tableau.com/app/profile/naren.mohan/viz/AnalysisonCapitalBikeshareData/CapitalBikeshare)
 
 The dataset used here can be found at - <br>
 https://www.capitalbikeshare.com/system-data <br>
